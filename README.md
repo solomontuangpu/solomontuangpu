@@ -1,4 +1,4 @@
-![Solomon Tuangpu](http://url/to/https://github.com/solomontuangpu/solomontuangpu/blob/main/mid-hero.png)
+![Solomon Tuangpu](https://github.com/solomontuangpu/solomontuangpu/blob/main/code.png)
 
 <h1 align="center">Hi 👋, I'm Solomon Tuangpu</h1>
 <h3 align="center">Web Developer</h3>
